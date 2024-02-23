@@ -1,0 +1,83 @@
+erklären||to explain|Kannst du das erklären?
+vor|Dativ|before|Er kommt vor dem Essen.
+fragen||to ask|Ich möchte dich etwas fragen.
+hoffen||to hope|Ich hoffe, es geht dir gut.
+erzählen||to tell|Kannst du mir eine Geschichte erzählen?
+brauchen||to need|Brauchst du Hilfe?
+sollen||should|Was soll ich tun?
+versuchen||to try|Ich werde es versuchen.
+treffen|mit|Dativ|to meet|Wir treffen uns mit Freunden.
+erreichen||to reach|Kannst du das Telefon erreichen?
+verstehen||to understand|Kannst du mich verstehen?
+merken||to notice|Ich habe es nicht gemerkt.
+besuchen||to visit|Ich möchte dich besuchen.
+hören||to listen|Kannst du mich hören?
+weiter||further|Können wir weitergehen?
+schaffen||to manage|Ich schaffe es nicht.
+fehlen||to miss|Mir fehlt meine Familie.
+bezahlen||to pay|Kann ich mit Kreditkarte bezahlen?
+teilnehmen||to participate|Nimmst du am Meeting teil?
+aussehen||to look|Wie siehst du aus?
+bezahlen||to pay|Wer bezahlt die Rechnung?
+feiern||to celebrate|Wir feiern meinen Geburtstag.
+vergessen||to forget|Ich habe meinen Schlüssel vergessen.
+sich|Dativ|oneself|Er hat sich das Bein gebrochen.
+vergessen||to forget|Ich habe es vergessen.
+laufen||to run|Kannst du schnell laufen?
+bezahlen||to pay|Kannst du die Rechnung bezahlen?
+beschreiben||to describe|Kannst du das beschreiben?
+vorstellen||to introduce|Darf ich mich vorstellen?
+freuen||to be glad|Ich freue mich darauf.
+entscheiden||to decide|Ich kann mich nicht entscheiden.
+sagen||to say|Was hast du gesagt?
+ausprobieren||to try out|Kann ich es ausprobieren?
+mitmachen||to join in|Willst du mitmachen?
+vor|Akkusativ|in front of|Er steht vor dem Haus.
+sich|Akkusativ|oneself|Er wäscht sich die Hände.
+sich|Akkusativ|oneself|Ich ziehe mich an.
+probieren||to try|Möchtest du es probieren?
+verändern||to change|Wir müssen etwas verändern.
+helfen||to help|Kann ich dir helfen?
+dauern||to last|Wie lange dauert es?
+machen||to do|Was machst du heute?
+passieren||to happen|Was ist passiert?
+sich|Akkusativ|oneself|Er rasiert sich.
+sich|Dativ|to oneself|Ich spreche mit mir selbst.
+sich|Dativ|to oneself|Ich habe mich verlaufen.
+passieren||to happen|Das kann jedem passieren.
+merken||to notice|Ich habe es nicht gemerkt.
+wählen||to choose|Was würdest du wählen?
+anfangen||to start|Wann fängt der Film an?
+schenken||to give (a present)|Was schenkst du ihm?
+verändern||to change|Ich habe mich verändert.
+sich|Dativ|to oneself|Er hat sich die Haare geschnitten.
+sich|Dativ|to oneself|Sie hat sich die Nägel lackiert.
+sich|Dativ|to oneself|Er hat sich den Arm gebrochen.
+möchten||would like|Was möchtest du trinken?
+sich|Akkusativ|to oneself|Sie hat sich das Bein gebrochen.
+sich|Dativ|to oneself|Sie hat sich die Hand verbrannt.
+sich|Dativ|to oneself|Sie hat sich das Bein verletzt.
+passieren||to happen|Es ist nichts passiert.
+treffen|mit|Dativ|to meet|Wir treffen uns mit Freunden.
+sich|Akkusativ|oneself|Er schneidet sich die Haare.
+sich|Dativ|to oneself|Sie hat sich die Haare gewaschen.
+sich|Dativ|to oneself|Er hat sich die Zähne geputzt.
+sich|Dativ|to oneself|Er hat sich die Hände gewaschen.
+sich|Akkusativ|oneself|Er zieht sich aus.
+sich|Akkusativ|oneself|Er wäscht sich.
+sich|Akkusativ|oneself|Sie rasiert sich.
+sich|Dativ|to oneself|Sie hat sich geschminkt.
+sich|Dativ|to oneself|Er hat sich ausgezogen.
+sich|Dativ|to oneself|Er hat sich gewaschen.
+sich|Dativ|to oneself|Er hat sich umgezogen.
+sich|Dativ|to oneself|Sie hat sich fertig gemacht.
+sich|Dativ|to oneself|Er hat sich beeilt.
+sich|Dativ|to oneself|Er hat sich hingesetzt.
+sich|Dativ|to oneself|Er hat sich geirrt.
+sich|Dativ|to oneself|Sie hat sich erholt.
+sich|Dativ|to oneself|Er hat sich entschuldigt.
+sich|Dativ|to oneself|Er hat sich geweigert.
+sich|Dativ|to oneself|Sie hat sich gewöhnt.
+sich|Dativ|to oneself|Er hat sich gestritten.
+sich|Dativ|to oneself|Er hat sich umarmt.
+sich|Dativ|to oneself|Er hat sich hingesetzt.

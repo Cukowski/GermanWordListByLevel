@@ -1,0 +1,88 @@
+der|Nominativ|the|Der Mann
+die|Nominativ|the|Die Frau
+und||and|Er und sie
+sein||to be|Ich bin
+in|Akkusativ|in|Ich bin in der Schule
+zu|Dativ|to|Ich gehe zu dir
+haben||to have|Ich habe
+ich||I|Ich bin müde
+werden||to become|Ich werde ein Arzt
+du||you|Du bist groß
+es||it|Es ist kalt
+mit|Dativ|with|Ich esse mit dir
+nicht||not|Ich bin nicht sicher
+auf|Akkusativ|on|Das Buch ist auf dem Tisch
+für|Akkusativ|for|Das Geschenk ist für dich
+er||he|Er ist nett
+sie||she|Sie ist klug
+ein|Nominativ|a/an|Ich habe ein Buch
+dass||that|Ich glaube, dass er kommt
+so||so|Das ist so einfach
+mit|Dativ|with|Ich bin mit meinem Freund
+sein||his|Das ist sein Auto
+auf|Dativ|on|Ich bin auf dem Berg
+zu|Akkusativ|to|Ich gehe zu dir
+wir||we|Wir sind hier
+ihr||you (plural)|Ihr seid großartig
+sagen||to say|Was hast du gesagt?
+ihr||her|Ich habe ihr ein Geschenk gegeben
+machen||to make|Kannst du das machen?
+machen||to do|Was machst du?
+meine|Nominativ|my|Das ist meine Katze
+nur||only|Ich habe nur einen Freund
+wie||how|Wie geht es dir?
+seine||his|Ist das seine Jacke?
+über|Akkusativ|about|Er spricht über seine Familie
+dann||then|Dann gehen wir
+weil||because|Ich gehe nicht, weil es regnet
+sagen||to tell|Kannst du mir das sagen?
+wann||when|Wann kommst du?
+gehen||to go|Ich gehe nach Hause
+sehen||to see|Kannst du mich sehen?
+über|Dativ|about|Er spricht über das Buch
+jetzt||now|Ich will jetzt essen
+auch||also|Ich will auch gehen
+wollen||to want|Ich will ein Eis
+ihr||your|Ist das euer Haus?
+gut||good|Das ist sehr gut
+werden||will|Ich werde ein Lehrer
+sehen||to see|Ich sehe den Hund
+um|Akkusativ|around|Ich gehe um das Haus
+ohne||without|Ich gehe ohne dich
+mehr||more|Ich will mehr Wasser
+hier||here|Er ist hier
+können||to be able to|Kannst du schwimmen?
+auch||too|Ich bin auch müde
+durch|Akkusativ|through|Er geht durch die Tür
+als|Nominativ|than|Sie ist größer als ich
+viel||a lot|Ich habe viel Geld
+wie||like|Er ist wie sein Vater
+nach|Dativ|after|Ich komme nach dir
+über|Akkusativ|about|Wir sprechen über das Buch
+nein||no|Ich will nicht
+dann||than|Sie ist größer als er
+also||so|Er ist also groß
+nur||just|Das ist nur ein Buch
+aus|Dativ|out of|Ich komme aus dem Haus
+ihm||to him|Ich gebe ihm das Buch
+jetzt||today|Heute ist ein schöner Tag
+schon||already|Ich habe das schon gesehen
+wissen||to know|Ich weiß das nicht
+ihr||their|Das ist ihr Auto
+deine|Nominativ|your|Das ist deine Tasche
+weil||cause|Das ist so, weil...
+sehen||see|Ich sehe das Bild
+dann||now|Ich will das jetzt
+sollen||should|Ich soll das machen
+ihm||him|Ich gebe ihm das Buch
+ihr|Nominativ|her|Ich helfe ihr
+hier||there|Ist er hier?
+ihre|Nominativ|their|Das ist ihre Katze
+sein||its|Das ist sein Auto
+uns||to us|Er gibt uns das Buch
+also||also|Ich bin also hier
+ohne||without|Ich gehe ohne dich
+ihm||to him|Ich gebe ihm das Buch
+jetzt||just|Ich will das jetzt machen
+uns||to us|Er gibt uns das Buch
+also||thus|Er ist also groß

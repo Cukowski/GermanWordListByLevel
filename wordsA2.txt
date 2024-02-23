@@ -1,0 +1,80 @@
+kommen|Akkusativ|to come|Kannst du heute Abend kommen?
+mögen|Akkusativ|to like|Ich mag Pizza.
+geben|Dativ|to give|Kannst du mir das geben?
+müssen||must|Ich muss zur Arbeit gehen.
+sprechen||to speak|Kannst du Deutsch sprechen?
+nehmen|Akkusativ|to take|Kann ich das nehmen?
+gehen||to go|Ich gehe ins Kino.
+möchten||would like|Ich möchte ein Eis.
+wissen||to know|Weißt du das?
+finden||to find|Ich finde mein Buch nicht.
+sehen||to see|Ich sehe den Film.
+arbeiten||to work|Ich arbeite jeden Tag.
+spielen||to play|Können wir Fußball spielen?
+lernen||to learn|Ich lerne Deutsch.
+brauchen||to need|Ich brauche deine Hilfe.
+fahren||to drive|Kannst du Auto fahren?
+laufen||to walk|Ich laufe jeden Morgen.
+bekommen|Akkusativ|to get|Kann ich das bekommen?
+leben||to live|Ich lebe in Berlin.
+fragen||to ask|Kann ich dich etwas fragen?
+beginnen|mit|Dativ|to begin|Lass uns mit dem Essen beginnen.
+erklären||to explain|Kannst du das erklären?
+essen||to eat|Ich esse gerne Pasta.
+trinken||to drink|Ich trinke Wasser.
+verstehen||to understand|Ich verstehe das nicht.
+kaufen||to buy|Kannst du das kaufen?
+öffnen||to open|Kannst du das Fenster öffnen?
+möchten||would like|Ich möchte ein Buch lesen.
+kommen|Dativ|to come|Kommst du aus Deutschland?
+stehen||to stand|Er steht dort drüben.
+spielen||to play|Können wir ein Spiel spielen?
+bleiben||to stay|Ich bleibe zu Hause.
+suchen||to search|Ich suche meine Schlüssel.
+sitzen||to sit|Ich sitze gerne im Park.
+lieben||to love|Ich liebe meine Familie.
+lesen||to read|Ich lese gerne Bücher.
+verlassen||to leave|Wir verlassen das Haus.
+tragen||to wear|Was trägst du heute?
+schreiben||to write|Kannst du mir schreiben?
+kennen||to know|Ich kenne sie nicht.
+sagen||to say|Was hast du gesagt?
+kommen|mit|Dativ|to come|Kommst du mit mir?
+hören||to hear|Kannst du mich hören?
+schlafen||to sleep|Ich schlafe gerne lange.
+vergessen||to forget|Ich habe das vergessen.
+halten||to hold|Kannst du das halten?
+sprechen||to speak|Kannst du Spanisch sprechen?
+helfen||to help|Kannst du mir helfen?
+bringen||to bring|Kannst du mir das bringen?
+stellen||to put|Kannst du das dort stellen?
+spielen||to play|Kannst du Klavier spielen?
+warten||to wait|Ich warte auf dich.
+warten||to wait|Kannst du kurz warten?
+gefallen||to like|Gefällt dir das?
+fahren||to travel|Ich fahre nach Paris.
+zahlen||to pay|Kann ich mit Karte zahlen?
+denken||to think|Was denkst du?
+essen||to eat|Wir essen zusammen.
+passieren||to happen|Was ist passiert?
+bleiben||to remain|Ich bleibe hier.
+arbeiten||to work|Er arbeitet hart.
+sprechen||to talk|Wir sprechen später.
+antworten||to answer|Kannst du mir antworten?
+verstehen||to understand|Kannst du das verstehen?
+beginnen||to start|Wir beginnen um acht.
+verlieren||to lose|Ich verliere nie.
+bieten||to offer|Kannst du mir etwas bieten?
+möchten||would like|Was möchtest du?
+versuchen||to try|Kannst du es versuchen?
+gewinnen||to win|Ich möchte gewinnen.
+gehören||to belong|Das gehört mir.
+arbeiten||to work|Sie arbeiten zusammen.
+gefallen||to please|Das gefällt mir.
+finden||to find|Wir finden einen Weg.
+möchten||would like|Was möchtest du trinken?
+bleiben||to stay|Bleibst du hier?
+anrufen||to call|Ich rufe dich an.
+erklären||to explain|Kannst du mir das erklären?
+freuen||to be glad|Ich freue mich darauf.
+wissen||to know|Ich weiß es nicht.

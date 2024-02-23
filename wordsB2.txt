@@ -1,0 +1,77 @@
+bewerben||to apply|Ich möchte mich für den Job bewerben.
+bewerben||to advertise|Wir werden das Produkt bewerben.
+auffordern||to request|Ich werde dich dazu auffordern.
+auffordern||to prompt|Der Lehrer wird die Schüler dazu auffordern.
+betonen||to emphasize|Es ist wichtig, das zu betonen.
+betonen||to stress|Ich möchte betonen, wie wichtig das ist.
+verfolgen||to pursue|Er wird seine Ziele weiter verfolgen.
+verfolgen||to track|Die Polizei wird den Verdächtigen verfolgen.
+zurückgeben||to return|Kann ich das Buch zurückgeben?
+zurückgeben||to give back|Ich muss das Geld zurückgeben.
+zurückgeben||to hand back|Er muss die Schlüssel zurückgeben.
+verbinden||to connect|Können Sie mich bitte mit Herrn Müller verbinden?
+verbinden||to link|Diese Straße verbindet zwei Stadtteile.
+kündigen||to quit|Er hat beschlossen, seinen Job zu kündigen.
+kündigen||to terminate|Die Firma wird ihm kündigen.
+stornieren||to cancel|Kann ich die Reservierung stornieren?
+stornieren||to revoke|Der Flug wurde aufgrund des Wetters storniert.
+kritisieren||to criticize|Sie wird das Buch heftig kritisieren.
+kritisieren||to critique|Der Film wurde von den Kritikern kritisiert.
+überzeugen||to convince|Ich werde versuchen, sie zu überzeugen.
+überzeugen||to persuade|Es ist schwer, ihn zu überzeugen.
+überzeugen||to win over|Er hat mich mit seinem Argument überzeugt.
+danken||to thank|Ich möchte Ihnen für Ihre Hilfe danken.
+danken||to appreciate|Ich danke Ihnen für Ihr Verständnis.
+danken||to give thanks|Wir danken Gott für unsere Gesundheit.
+bedanken||to thank|Ich möchte mich bei Ihnen für Ihre Großzügigkeit bedanken.
+bedanken||to express gratitude|Wir möchten uns herzlich bei Ihnen bedanken.
+akzeptieren||to accept|Können Sie Kreditkarten akzeptieren?
+akzeptieren||to agree to|Er wird die Bedingungen akzeptieren.
+akzeptieren||to admit|Ich kann nicht akzeptieren, dass du recht hast.
+bestehen||to insist|Er wird darauf bestehen, seinen Teil zu zahlen.
+bestehen||to pass|Ich hoffe, ich bestehe die Prüfung.
+bestehen||to exist|Diese Regel besteht seit Jahren.
+erlauben||to allow|Können Sie das bitte erlauben?
+erlauben||to permit|Das Gesetz erlaubt es nicht.
+erlauben||to enable|Die Technologie ermöglicht es uns, schneller zu arbeiten.
+entschuldigen||to excuse|Können Sie mich bitte entschuldigen?
+entschuldigen||to apologize|Ich möchte mich bei dir entschuldigen.
+entschuldigen||to pardon|Er wird ihn für sein Verhalten entschuldigen.
+befehlen||to command|Der Offizier wird seinen Soldaten befehlen.
+befehlen||to order|Können Sie bitte das Abendessen bestellen?
+befehlen||to dictate|Er wird das Unternehmen mit harter Hand befehlen.
+ankündigen||to announce|Der Sprecher wird die Gewinner ankündigen.
+ankündigen||to proclaim|Die Regierung wird eine neue Politik ankündigen.
+ankündigen||to declare|Er wird seinen Rücktritt ankündigen.
+bevorzugen||to prefer|Ich würde Tee bevorzugen.
+bevorzugen||to favor|Er wird seine eigenen Leute bevorzugen.
+erwarten||to expect|Wir erwarten eine schnelle Antwort.
+erwarten||to await|Er wird das Ergebnis gespannt erwarten.
+erwarten||to anticipate|Die Forscher erwarten neue Entdeckungen.
+bieten||to offer|Kann ich Ihnen einen Kaffee anbieten?
+bieten||to provide|Wir bieten unseren Kunden besten Service.
+bieten||to bid|Er wird auf das Gemälde bieten.
+dürfen||to be allowed|Darf ich das Fenster öffnen?
+dürfen||to may|Du darfst nicht hier parken.
+dürfen||to be permitted|Sie dürfen hier nicht rauchen.
+führen||to lead|Er wird das Team zum Sieg führen.
+führen||to guide|Kannst du mich bitte führen?
+führen||to conduct|Er wird die Umfrage durchführen.
+genehmigen||to approve|Kann ich das Projekt genehmigen?
+genehmigen||to authorize|Der Chef wird den Antrag genehmigen.
+genehmigen||to license|Die Behörde wird die Lizenz genehmigen.
+sichern||to secure|Wir müssen unsere Daten sichern.
+sichern||to safeguard|Er wird das Gebiet sicherstellen.
+sichern||to ensure|Kannst du bitte sicherstellen, dass das funktioniert?
+genehmigen||to permit|Die Stadt wird den Bau genehmigen.
+genehmigen||to validate|Die Versicherung wird den Schaden genehmigen.
+genehmigen||to legalize|Das Parlament wird das Gesetz genehmigen.
+gönnen||to grant|Kannst du ihm bitte eine Pause gönnen?
+gönnen||to allow|Er wird ihm den Sieg gönnen.
+gönnen||to afford|Sie können sich den Urlaub nicht gönnen.
+missbrauchen||to misuse|Es ist falsch, Macht zu missbrauchen.
+missbrauchen||to abuse|Er wird das Vertrauen nicht missbrauchen.
+missbrauchen||to maltreat|Die Kinder wurden misshandelt.
+verbreiten||to spread|Das Virus wird sich schnell verbreiten.
+verbreiten||to disseminate|Die Presse wird die Nachrichten verbreiten.
+verbreiten||to circulate|Die Gerüchte werden sich verbreiten.
