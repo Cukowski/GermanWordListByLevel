@@ -54,7 +54,7 @@ a:hover {
 .buttonGroup1 {
   /* display: flex; */
   position: fixed; /* Fix the position */
-  bottom: 30%; /* Adjust as needed */
+  bottom: 33%; /* Adjust as needed */
   left: 0;
   right: 0;
   text-align: center;
@@ -83,6 +83,15 @@ a:hover {
 
 /* Media query for mobile phones */
 @media only screen and (max-width: 600px) {
+  .container {
+    width: 95%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    font-size: 150%;
+  }
+
   .buttonContainer button {
     font-size: 20px; /* Increase font size for mobile */
     padding: 15px 30px; /* Increase padding for larger buttons on mobile */
@@ -91,7 +100,7 @@ a:hover {
   .buttonGroup1 {
     /* display: flex; */
     position: fixed; /* Fix the position */
-    bottom: 17%; /* Adjust as needed */
+    bottom: 13%; /* Adjust as needed */
     left: 0;
     right: 0;
     text-align: center;
@@ -99,9 +108,11 @@ a:hover {
   .buttonGroup2 {
     /* display: flex; */
     position: fixed; /* Fix the position */
-    bottom: 10%; /* Adjust as needed */
+    bottom: 7%; /* Adjust as needed */
     left: 0;
     right: 0;
     text-align: center;
   }
 }
+
+
