@@ -20,6 +20,7 @@ h1 {
   text-align: center;
   margin-bottom: 20px;
   color: #333;
+  font-size: 180%;
 }
 
 /* Style the list */
@@ -73,7 +74,7 @@ a:hover {
 #nextButton,
 #randomButton {
   padding: 10px 20px;
-  font-size: 18px;
+  font-size: 120%;
 }
 
 #randomButton {
@@ -92,8 +93,12 @@ a:hover {
     font-size: 150%;
   }
 
+  h1 {
+    font-size: 120%;
+  }
+
   .buttonContainer button {
-    font-size: 20px; /* Increase font size for mobile */
+    font-size: 180%; /* Increase font size for mobile */
     padding: 15px 30px; /* Increase padding for larger buttons on mobile */
   }
 
