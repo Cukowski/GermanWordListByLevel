@@ -1,0 +1,57 @@
+heißen|adı olmak
+wohnen|ikamet etmek, oturmak
+leben|yaşamak
+haben|sahip olmak
+sein|olmak
+kommen|gelmek
+gehen|gitmek
+bleiben|kalmak
+machen|yapmak
+schreiben|yazmak
+lesen|okumak
+lernen|öğrenmek, ders çalışmak
+sprechen|konuşmak
+sagen|söylemek
+hören|duymak
+sehen|görmek
+verstehen|anlamak
+wiederholen|tekrar etmek
+wissen|bilmek
+fragen|sormak
+antworten|cevaplamak
+bilden(satz)|(cümle kurmak)
+verbessern|düzeltmek
+zeigen|göstermek
+arbeiten|çalışmak
+suchen|aramak
+essen|yemek yemek
+trinken|içmek
+fahren|sürmek, araçla bir yere gitmek
+fliegen|uçmak
+laufen|yürümek, koşmak
+rennen|koşmak
+stehen|durmak (ayakta)
+sitzen|oturmak
+liegen|durmak(yatay), uzanmak
+schlafen|uyumak
+rufen|çağırmak
+lachen|gülmek
+weinen|ağlamak
+duschen|duş almak
+waschen|yıkamak
+telefonieren|telefonla görüşmek
+helfen|yardım etmek
+kaufen|satın almak
+bezahlen|ödemek
+brauchen|ihtiyacı olmak
+beginnen|başlamak
+anfangen|başlamak
+nehmen|almak
+geben|vermek
+bringen|getirmek, götürmek
+öffnen|açmak
+schließen|kapatmak
+aufmachen|açmak
+zumachen|kapatmak
+anmachen|elektrikli bir şeyi açmak
+ausmachen|elektrikli bir şey kapatmak
